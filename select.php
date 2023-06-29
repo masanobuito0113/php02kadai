@@ -62,7 +62,7 @@ if ($status==false){
             </ul>
             </div>
         </nav>
-        <div class="container jumbotron"><?= $view ?></div>
+        <div class="container jumbotron "><?= $view ?></div>
 
         <a class="navbar-brand" href="index.php">データ登録へもどる</a>
 
